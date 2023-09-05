@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "957538623979",
+    "project_id": "flutter--signin-tutorial",
+    "storage_bucket": "flutter--signin-tutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957538623979:android:357edee576eb50643479ae",
+        "android_client_info": {
+          "package_name": "com.google.sign.google_sign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957538623979-elhd7a1jrtl4l1jh8npi5qercbgqo385.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.sign.google_sign",
+            "certificate_hash": "7ffb366ecfd67a5a437a154eec245c08fea3390a"
+          }
+        },
+        {
+          "client_id": "957538623979-voj4k3di7ktlt8v9l66akgq67e4qt60d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQIkAYcGbRLICXT8_40trM9cT-D_P8ByI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957538623979-orgriccb25f199e44fkg0rmvf0t8cevm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
